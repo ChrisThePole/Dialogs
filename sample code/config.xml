@@ -7,19 +7,19 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Dialog Demo</name>
+    <name>Dialogs</name>
 
     <description>
         A dialog, notification and toast message demonstration application
     </description>
 
-    <author href="http://www.worcester.ac.uk/discover/chris-bowers.html" email="c.bowers@worc.ac.uk">
-        Chris P. Bowers
+    <author>
+        Chris Hewlett
     </author>
 	
 	
 	
 	<!-- required plugins go here -->
-	     
+	<plugin name ="cordova-plugin-dialogs"/>     
 
 </widget>
